@@ -1,8 +1,8 @@
 
 import { useState, useRef } from 'react';
-import { Table, Row, Col, Image, Button, Input, Space } from "antd"
+import { Table, Row, Col, Image, Button, Input, Space, Popover } from "antd"
 import books from "./staticData/books.json"
-import { AiFillEye, AiOutlineMonitor } from "react-icons/ai";
+import { AiFillEye, AiOutlineMonitor, AiFillInfoCircle } from "react-icons/ai";
 import type { InputRef } from 'antd';
 import type { ColumnType } from 'antd/es/table';
 import type { FilterConfirmProps } from 'antd/es/table/interface';
@@ -14,7 +14,6 @@ import Highlighter from 'react-highlight-words';
 interface DataType {
   image: string;
   name: string;
-  year: string;
   description: string;
   sell: string;
 }
@@ -133,14 +132,10 @@ const App = () => {
       ...getColumnSearchProps('name'),
     },
     {
-      title: 'Basım Yılı',
-      dataIndex: 'year',
-      key: 'year',
-    },
-    {
       title: 'Açıklama',
       dataIndex: 'description',
       key: 'description',
+      render: (description: string) => <Popover title="Özet" content={description}><AiFillInfoCircle color="blue" size={30} /></Popover>
     },
     {
       title: 'Ön İzleme',
