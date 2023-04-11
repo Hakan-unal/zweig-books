@@ -149,7 +149,10 @@ const App = () => {
 
 
     <Col sm={{ span: 16, offset: 4 }}>
-      <Table columns={columns} dataSource={data} />
+      <Table expandable={{
+        expandedRowRender: (record) => <p style={{ margin: 0 }}>{record.description}</p>,
+        rowExpandable: (record) => record.name !== 'Not Expandable',
+      }} columns={columns} dataSource={data} />
     </Col>
   </Row>)
 }
