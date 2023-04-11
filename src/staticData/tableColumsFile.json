@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Name",
+        "dataIndex": "name",
+        "label": "name",
+        "key": "name",
+        "value": 0
+    },
+    {
+        "title": "Age",
+        "dataIndex": "age",
+        "key": "age",
+        "value": 1,
+        "label": "age"
+    },
+    {
+        "title": "Address",
+        "dataIndex": "address",
+        "key": "address",
+        "value": 2,
+        "sorter": "(a: any, b: any) => a.address.length - b.address.length",
+        "sortDirections": "['descend', 'ascend']",
+        "label": "address"
+    }
+]
