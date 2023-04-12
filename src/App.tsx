@@ -1,5 +1,5 @@
 
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { Table, Row, Col, Image, Button, Input, Space, Popover } from "antd"
 import books from "./staticData/books.json"
 import { AiFillEye, AiOutlineMonitor, AiFillInfoCircle } from "react-icons/ai";
@@ -117,7 +117,6 @@ const App = () => {
       ),
   });
 
-
   const columns = [
     {
       title: 'Görsel',
@@ -146,8 +145,6 @@ const App = () => {
     },
   ];
   return (<Row style={{ marginTop: 100 }}>
-
-
     <Col sm={{ span: 16, offset: 4 }}>
       <Table
         expandable={{
