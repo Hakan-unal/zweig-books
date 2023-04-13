@@ -1,12 +1,13 @@
 
-import { useState, useRef, useEffect } from 'react';
-import { Table, Row, Col, Image, Button, Input, Space, Popover } from "antd"
+import { useState, useRef } from 'react';
+import { Table, Row, Col, Image, Button, Input, Space } from "antd"
 import books from "./staticData/books.json"
-import { AiFillEye, AiOutlineMonitor, AiFillInfoCircle } from "react-icons/ai";
+import { AiFillEye, AiOutlineMonitor } from "react-icons/ai";
 import type { InputRef } from 'antd';
 import type { ColumnType } from 'antd/es/table';
 import type { FilterConfirmProps } from 'antd/es/table/interface';
 import Highlighter from 'react-highlight-words';
+import { showNotification } from '../src/components/general/notification'
 
 
 
@@ -59,14 +60,14 @@ const App = () => {
             size="small"
             style={{ width: 90 }}
           >
-            Search
+            Ara
           </Button>
           <Button
             onClick={() => clearFilters && handleReset(clearFilters)}
             size="small"
             style={{ width: 90 }}
           >
-            Reset
+            Temizle
           </Button>
           <Button
             type="link"
@@ -77,7 +78,7 @@ const App = () => {
               setSearchedColumn(dataIndex);
             }}
           >
-            Filter
+            Filtrele
           </Button>
           <Button
             type="link"
@@ -86,7 +87,7 @@ const App = () => {
               close();
             }}
           >
-            close
+            Kapat
           </Button>
         </Space>
       </div>
@@ -130,12 +131,12 @@ const App = () => {
       key: 'name',
       ...getColumnSearchProps('name'),
     },
-    {
-      title: 'Açıklama',
-      dataIndex: 'description',
-      key: 'description',
-      render: (description: string) => <Popover title="Özet" content={description}><AiFillInfoCircle color="blue" size={30} /></Popover>
-    },
+    // {
+    //   title: 'Açıklama',
+    //   dataIndex: 'description',
+    //   key: 'description',
+    //   render: (description: string) => <Popover title="Özet" content={description}><AiFillInfoCircle color="blue" size={30} /></Popover>
+    // },
     {
       title: 'Ön İzleme',
       dataIndex: 'sell',
@@ -147,9 +148,20 @@ const App = () => {
   return (<Row style={{ marginTop: 100 }}>
     <Col sm={{ span: 16, offset: 4 }}>
       <Table
+        bordered={false}
+        sticky
         expandable={{
           expandedRowRender: (record) => <p style={{ margin: 0 }}>{record.description}</p>,
           rowExpandable: (record) => record.name !== 'Not Expandable',
+        }}
+        onRow={(record, rowIndex) => {
+          return {
+            onClick: (event) => { }, // click row
+            onDoubleClick: (event) => { }, // double click row
+            onContextMenu: (event) => { }, // right button click row
+            onMouseEnter: (event) => { showNotification("info", "Bilgilendirme", record.description, null) }, // mouse enter row
+            onMouseLeave: (event) => { }, // mouse leave row
+          };
         }}
         columns={columns}
         dataSource={data} />

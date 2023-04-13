@@ -72,176 +72,148 @@
     {
         "key": 11,
         "name": "Karışık Duygular ",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:184141/wh:true/wi:220",
+        "description": "Karışık Duygular, kalp ile zihin arasındaki ezelî çatışmanın yol açtığı kısa fakat karmaşık bir labirent. Stefan Zweig, dünyanın siyah ve beyazlardan oluşmadığını, o parlak biçemiyle bir kez daha hatırlatıyor okurlarına.",
+        "sell": "https://www.kitapyurdu.com/kitap/karisik-duygular/300188.html&filter_name=karisik+duygular"
     },
     {
         "key": 12,
         "name": "Satranç",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11468326/wh:true/wi:220",
+        "description": "New York'tan Buenos Aires'e giden bir yolcu gemisinde yolcular arasında bulunan bir milyoner, dünya satranç şampiyonu Mirko Czentovic'e, ücreti karşılığında, bir parti satranç oynamayı teklif eder. İkisinin oyununu izleyen Avusturyalı bir göçmen, Dr. B., oyun sırasında kendini tutamayıp onlara karışınca şampiyonla karşılaşması önerilir kendisine. Gestapo tarafından bir otel odasına kapatılan ve uzunca bir süreyi bu odada, tek başına ve oyalanacak hiçbir şeyi olmadan geçiren, yalnızca sorgulama için odadan çıkarılan Dr. B., bir gün rastlantıyla eline geçirdiği bir satranç kitabı sayesinde bu oyunun inceliklerini öğrenmiştir.",
+        "sell": "https://www.kitapyurdu.com/kitap/satranc-ciltsiz/13594.html&filter_name=satranc"
     },
     {
         "key": 13,
         "name": "Günlükler",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11441826/wh:true/wi:220",
+        "description": "Yüzyılımızın önde gelen düşünür ve yazarlarından Stefan Zweig'ın Türkçede ilk kez yayımlanan Günlükler'i, Birinci ve İkinci Dünya Savaşlarının acılarına tanık olmuş, bu acıları derinden yaşamış bu duyarlı insanın, yaşadığı dönemle ilgili düşüncelerini, iç dünyasını açıkça ortaya koyan birer belge niteliğinde.",
+        "sell": "https://www.kitapyurdu.com/kitap/gunlukler/13592.html&filter_name=g%C3%BCnl%C3%BCkler"
     },
     {
         "key": 14,
         "name": "Değişim Rüzgârı",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11451409/wh:true/wi:220",
+        "description": "Birinci Dünya Savaşını izleyen yıllarda, Avusturya'nın bir köyündeki postanede memur olarak iş bulan Christine Hoflehner'in önünde, renksiz ve yoksulluk dolu bir yaşam uzanmaktadır. Ancak Amerika'daki akrabalarından aldığı bir mektup tekdüze yaşamından çekip alır onu. Çalışmayı ve yoksulluğu tanımayan bir dünyada, lüks bir otelde tatil geçirmeye davet edilmektedir. Otelde önceleri soylu ve varlıklı biri sanılsa da sonradan asıl kimliği ortaya çıkar ve değişim rüzgarları Christine'yi alıp yeniden artık katlanamadığı eski tekdüze, küçük, yoksul dünyasına sürükler. Ne var ki, bu eski dünyasında tanıştığı",
+        "sell": "https://www.kitapyurdu.com/kitap/degisim-ruzgari/13590.html&filter_name=degisim+ruzgari"
     },
     {
         "key": 15,
         "name": "Calvin'e Karşı Castellio ya da Köleliğe Karşı Özgür Düşünce",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:116020/wh:true/wi:220",
+        "description": "Sevgili Zweig, uzun zamandır gerek konu,gerekse konunun ele alınışı itibariyle Castellio kadar hararetle ve heyecanla okuduğum kitap olmadı. Bu bir sansasyon, çok heyecanlı, günün bütün nefreti ve sempatisini tarihsel bir olay üzerinde toplayarak çok şey öğretiyor. Son derece umutsuz, aynı zamanda umut dolu, Castellio'yu tanımıyordum, tanıştığım için gerçekten sevinçliyim ve geçmiş zamanda yeni bir dostluk ilişkisi kurdum. Bunu kitabınıza, bunu size borçluyum.",
+        "sell": "https://www.kitapyurdu.com/kitap/calvine-karsi-castellio-ya-da-kolelige-karsi-ozgur-dusunce/20465.html&filter_name=calvine+karsi+castellio+ya+da+kolelige+karsi+ozgur+dusunce"
     },
     {
         "key": 16,
         "name": "Fouche, Bir Politikacının Portresi",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11425913/wh:true/wi:220",
+        "description": "Fouché, aklını ve iradesini kontrol edebilen, Makyavelist, gözükara, her türlü etik ilkeden yoksun, değişen ideolojilere aynı hızla uyum gösteren, iktidar zevkini maskeleyebilen bir politikacı tipidir. Zweig, Fouché’nin şahsında sadece bir politikacıyı değil, çıkar ve amaçlarını her şeyin üstünde tutan, bu uğurda önündeki her şeyi ve herkesi ezip geçen, kendini, sadece kendini düşünen insanı anlatmaktadır aslında.",
+        "sell": "https://www.kitapyurdu.com/kitap/joseph-fouche-bir-politikacinin-portresi/96571.html&filter_name=joseph+fouche++bir+politikacinin+portresi"
     },
     {
         "key": 17,
         "name": "Tehlikeli Merhamet ",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:165309/wh:true/wi:220",
+        "description": "Uzun zamandan beri gelmesi beklenen fırtına patlamak üzereydi. Birbirlerine çarpan muhteşem sandıkları hatırlatan bir gürültüyle beraber aydınlanan bulutlar, endişeli bir tavırla ürperen ağaçların tepesinde toplanıyorlardı.Rutubetli havanın yanık bir kokusu vardı.Şehrin görünüşü de tamamen değişmişti; dükkanların tabelaları tıpkı bir kabustaki gibi sallanıyor ve takırdıyor, kapılar çarpıyor, bacalar inlemeye benzeyen sesler çıkarıyordu.",
+        "sell": "https://www.kitapyurdu.com/kitap/tehlikeli-merhamet/27458.html&filter_name=tehlikeli+merhamet"
     },
     {
         "key": 18,
         "name": "Amok Koşucusu",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11213850/wh:true/wi:220",
+        "description": "İntihar, Stefan Zweig'ın zihnini gençlik yıllarından beri meşgul eden bir kavramdı. Yaşamının bir anlamı kalmadığını anladığı anda yaşamına kendi eliyle son verebileceğini daha üniversite yıllarında söylemişti. İlk evliliği sırasında karısı Friederike'yi kendisiyle birlikte intihar etmesi için zorlayan, sonra bu düşüncesinden vazgeçen Stefan Zweig, yıllar sonra, İkinci Dünya Savaşı sırasında, ikinci karısıyla birlikte yaşamına son verdi. Yazar, önceki intihar girişimlerinden vazgeçmiş olsa da korkularını, romanlarındaki ve öykülerindeki kahramanlara yaşatıyor.",
+        "sell": "https://www.kitapyurdu.com/kitap/amok-kosucusu/30116.html&filter_name=amok+kosucusu"
     },
     {
         "key": 19,
         "name": "Amok",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:6955433/wh:true/wi:220",
+        "description": "Amok is a novella by the Austrian author Stefan Zweig. First printed in the newspaper Neue Freie Presse in 1922, Amok appeared shortly afterwards in the collection of novellas Amok: Novellas of a Passion. Zweig was fascinated and influenced by Sigmund Freud’s work. Like other works by Zweig, Amok therefore has clear psychoanalytical elements. It deals with an extreme obsession, which leads the protagonist to sacrifice his professional and private life and, eventually, to commit suicide.",
+        "sell": "https://www.kitapyurdu.com/kitap/amok/473121.html&filter_name=amok"
     },
     {
         "key": 20,
         "name": "Balzac, Bir Yaşam Öyküsü ",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
-    },
-    {
-        "key": 21,
-        "name": "Magellan",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11348524/wh:true/wi:220",
+        "description": "Belki de ilk gençlik dönemlerimden bu yana beni meşgul eden büyük bir eser yazmayı denerim —Balzac hakkında kalın bir kitap, bir yaşamöyküsü ve eleştiri. Muhtemelen üç, hatta dört yıl gerektireceğini biliyorum. Ama geriye kalıcı bir şey bırakmak istiyorum, on yıllarca etkisini yitirmeyecek bir eser ... Otuz yıldır Balzac okuyorum, hayranlığımdan hiçbir şey kaybetmeden tekrar tekrar okuyorum.",
+        "sell": "https://www.kitapyurdu.com/kitap/balzac-bir-yasam-oykusu/125617.html&filter_name=balzac+bir+yasam+oykusu"
     },
     {
         "key": 22,
         "name": "Freud ve Öğretisi ",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:4564741/wh:true/wi:220",
+        "description": "19. yüzyıl ‘’ ahlakını ‘’ tartışarak, bu ahlakın nasıl bir ‘’zihni durum’’ yarattığını belirterek Freud’u bize verir. Böylece Freud’un bugün bile neden vazgeçilmez olduğunu sezmeye başlarız. Ama Zweig’in bütün sorunu bu değildir tabii... Aynı zamanda yanılgıların insanı olarak da Fred’u bize verir. İşte bu noktaya geldiğimiz de Freud bir ‘’imaj’’ olmaktan çıkar zihnimizde, somutlaşır, gerçeklik kazanır...",
+        "sell": "https://www.kitapyurdu.com/kitap/freud-ve-ogretisi/435625.html&filter_name=freud+ve+%C3%B6%C4%9Fretisi"
     },
     {
         "key": 23,
         "name": "Yakıcı Sır ",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:8588883/wh:true/wi:220",
+        "description": "Çocuk olmak korkunç bir şey, merak dolu olmak fakat kimseye bir şey soramamak, sanki aptal veya yararsız bir şeymişsin gibi yetişkinlerin karşısında hep gülünç duruma düşmek… Ama ben bu sırrı öğreneceğim, hissediyorum, çok kısa zamanda öğreneceğim.",
+        "sell": "https://www.kitapyurdu.com/kitap/yakici-sir/500289.html&filter_name=yakici+sir"
     },
     {
         "key": 24,
         "name": "Ruh Yoluyla Tedavi ",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:6514852/wh:true/wi:220",
+        "description": "Sözlerin, konuşulanların nasıl bir mucize yaratacağını, dudağın boşluğa doğru yaptığı büyülü titreşimin sayısız dünyalar kurup sayısız dünyaları yıktığını kim bilir? Modern bilimsel tıp, hastalığı insanın bütününe değil, organlarından birine ilişkin bir şeymiş gibi algılar. Oysa hekimlik sanatının mucizeleri, beden ile ruh arasındaki yüksek ilişkilere dayanır. Ruh Yoluyla Tedavi’nin sırrı, insanın varlığının bütününü hastalığın bütününe karşı harekete geçirmesi çağrısında gizlidir.",
+        "sell": "https://www.kitapyurdu.com/kitap/ruh-yoluyla-tedavi/69290.html&filter_name=ruh+yoluyla+tedavi"
     },
     {
         "key": 25,
         "name": "Amerigo",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
-    },
-    {
-        "key": 26,
-        "name": "Mektuplaşmalar",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11228356/wh:true/wi:220",
+        "description": "Hem düşsel hem de tarihsel karakterler üstüne yorumlarıyla tanıdığımız Stefan Zweig’ı derin karakter incelemelerine yönelten, psikolojiye ve Freud’un öğretisine duyduğu ilgidir. Beş tarihsel kişiliğin portrelerini içeren Yıldızın Parladığı Anlar, Fransız Devrimi’nde bir politikacının portresi niteliğindeki Joseph Fouché’yle birlikte Amerigo da Zweig’ın nesnellikten çok sezgiye dayanan yaşamöykülerinin en başarılarından biridir. ",
+        "sell": "https://www.kitapyurdu.com/kitap/amerigotarihi-bir-yanlisligin-hikayesi/71837.html&filter_name=amerigo"
     },
     {
         "key": 27,
         "name": "Buluşmalar",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:9547464/wh:true/wi:220",
+        "description": "Dostlarım bana yıllardır, çeşitli konular üzerine düşüncelerimi kaleme aldığım denemeleri bir kitapta toplamamı ısrarla söyleyip duruyordu.Bu yazılar gençliğimde beni yüreklendirmiş olayların, mutluluğun, kazancın ve deneyimlerin birikimidir. İnsanlarla, kentlerle, kitaplarla, resimlerle ve müzikle buluşmalardan kalanlardır. Kimi zaman kişiyi coşturan, kimi zaman ise aklını başına getiren anlardır.",
+        "sell": "https://www.kitapyurdu.com/kitap/bulusmalar-insanlar-kentler-kitaplar/388553.html&filter_name=bulusmalar+zweig"
     },
     {
         "key": 28,
         "name": "Rotterdamlı Erasmus,Zaferi Ve Trajedisi",
         "image": "test",
         "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "sell": "https://www.kitapyurdu.com/kitap/roterdamli-erasmus-zaferi-ve-trajedisi/108563.html&filter_name=rotterdamli+erasmus"
     },
     {
         "key": 29,
         "name": "Bir Kadının Yaşamından 24 Saat ve Bir Yüreğin Ölümü ",
-        "image": "test",
-        "description": "",
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11441040/wh:true/wi:220",
+        "description": "Her koşul altında iç özgürlüğünü koruma uğrunda çaba harcamak, kimsenin efendisi olmaya kalkışmamak, fakat kimseye de boyun eğmemek; hiçbir sav ya da düşünceye baştan düşmanca yaklaşmamak, ama buyurgan nitelik almaya başladığı anda her savın ya da düşüncenin karşısına dikilmek. Bütün bunlar gerek Erasmus’un, gerek Zweig’ın kişiliklerinde birbiriyle bütünüyle örtüşen niteliklerdir.",
         "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
     },
     {
         "key": 30,
         "name": "Clarissa",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11506261/wh:true/wi:220",
+        "description": "Zweig hayatının son dönemlerinde başladığı, taslağı 1981’de gün ışığına çıkarılan ve yayıncısı tarafından tamamlanan Clarissa’da, 1902 yılından Birinci Dünya Savaşı’nın patlak vermesine kadar geçen dönemde, dünyanın halini genç bir kadının gözünden anlatır. Avusturyalı bir subayın kızı olan Clarissa bir manastır okulunda büyümüş, eğitimini tamamladıktan sonra Viyanalı ünlü bir sinir hastalıkları uzmanının yanında çalışmaya başlamıştır.",
+        "sell": "https://www.kitapyurdu.com/kitap/clarissa-ciltli/605272.html&filter_name=clarissa+zweig"
     },
     {
         "key": 31,
         "name": "Gömülü Şamdan",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
-    },
-    {
-        "key": 32,
-        "name": "Wondrak",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:11505247/wh:true/wi:220",
+        "description": "Süleyman’ın tapınağından çıkan, Yahudilerin kutsal emaneti yedi kollu şamdanın 455 yılında Roma’yı yağmalayan Vandalların eline geçmesi, kentin Yahudi cemaatinde şok etkisi yaratır. Cemaatin yaşlıları, olan biteni gelecek kuşaklara aktarması için o sırada yedi yaşında olan Benjamin’i de yanlarına alarak kutsal Menora’yı denizaşırı yolculuğuna uğurlarlar. Seksen yıl sonra aynı Benjamin, şamdanı Yahudilere geri vermesi için İmparator İustinianos’a yalvarmak üzere Bizans’a gider. İustinianos’un Kudüs’teki bir Hıristiyan kilisesine gönderdiği şamdan, orada kaybolmuştur.",
+        "sell": "https://www.kitapyurdu.com/kitap/gomulu-samdan-ciltli/605105.html&filter_name=gomulu+samdan"
     },
     {
         "key": 33,
         "name": "Korku",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:5158621/wh:true/wi:220",
+        "description": "Burjuva sınıfının bütün imkanlarına sahip ama hayatla barışamayan güzel ve alımlı İrene, genç bir müzisyenle tanışır. Evliliğinde mutludur. Ama karşı konulamaz biçimde müzisyeni hayatına dahil eder. Heyecan, tutku, beğenilme arzusu benliğini ele geçirir. Her şey yolunda giderken korkuyla tanışır İrene. Tanımadığı bir kadının tehdit ve şantajla üzerine saldığı bu yabancı duygu hayatını altüst eder. Kaçtıkça daha da bataklığa saplanır. Halbuki hiç bir kaçış, cezadan daha ağır değildir. ",
+        "sell": "https://www.kitapyurdu.com/kitap/korku/447450.html&filter_name=stefan+zweig+korku"
     },
     {
         "key": 34,
         "name": "Olağanüstü Bir Gece",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
-    },
-    {
-        "key": 35,
-        "name": "Benimle Dostluk Zordur",
-        "image": "test",
-        "description": "",
-        "sell": "https://www.kitapyurdu.com/kitap/acimak/442139.html"
+        "image": "https://img.kitapyurdu.com/v1/getImage/fn:6340674/wh:true/wi:220",
+        "description": "Ravaruska’da çatışmada hayatını kaybeden Friedrich Michael von R…’nin başından geçen tuhaf olaylar dizgesini içeriyor ‘Olağanüstü Bir Gece’.Stefan  Zweig’in psikolojik tahlilleriyle kılcal damarlarına ineceğiniz kısa öykü, zihin akışları bezeli. Hayatta her şeye sahip birinin, nelere muhtaç olduğunu fark ettiriyor. Kitap, sadece tek bir gecede yaşanan büyülü olaylarla benliğin değişebildiğini haykırıyor.",
+        "sell": "https://www.kitapyurdu.com/kitap/olaganustu-bir-gece/465451.html&filter_name=olaganustu+bir+gece"
     }
 ]
