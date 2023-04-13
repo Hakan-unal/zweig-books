@@ -159,7 +159,7 @@ const App = () => {
             onClick: (event) => { }, // click row
             onDoubleClick: (event) => { }, // double click row
             onContextMenu: (event) => { }, // right button click row
-            onMouseEnter: (event) => { showNotification("info", "Bilgilendirme", record.description, null) }, // mouse enter row
+            onMouseEnter: (event) => { showNotification("info", record.name, record.description, null) }, // mouse enter row
             onMouseLeave: (event) => { }, // mouse leave row
           };
         }}
